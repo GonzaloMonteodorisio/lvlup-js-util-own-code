@@ -19,9 +19,9 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "baseUrl": "./src",
+    "paths": {
+      "*": ["*"]
+    }
   },
   "include": ["src"],
-  "paths": {
-    "*": ["*"]
-  }
 }
